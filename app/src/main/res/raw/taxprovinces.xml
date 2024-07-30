@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Source: https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/calculator.html -->
+
+<resources>
+    <array-array name="taxProvinces">
+        <row>
+            <Abb>N/A</Abb>
+            <Province>noTax</Province>
+            <GSTandHST>0%</GSTandHST>
+            <PST>0%</PST>
+        </row>
+        <row>
+            <Abb>AB</Abb>
+            <Province>Alberta</Province>
+            <GSTandHST>5%</GSTandHST>
+            <PST>0%</PST>
+        </row>
+        <row>
+            <Abb>BC</Abb>
+            <Province>British Columbia</Province>
+            <GSTandHST>5%</GSTandHST>
+            <PST>7%</PST>
+        </row>
+        <row>
+            <Abb>MB</Abb>
+            <Province>Manitoba</Province>
+            <GSTandHST>5%</GSTandHST>
+            <PST>7%</PST>
+        </row>
+        <row>
+            <Abb>NB</Abb>
+            <Province>New Brunswick</Province>
+            <GSTandHST>15%</GSTandHST>
+            <PST>0%</PST>
+        </row>
+        <row>
+            <Abb>NL</Abb>
+            <Province>Newfoundland and Labrador</Province>
+            <GSTandHST>15%</GSTandHST>
+            <PST>0%</PST>
+        </row>
+        <row>
+            <Abb>NT</Abb>
+            <Province>Northwest Territories</Province>
+            <GSTandHST>5%</GSTandHST>
+            <PST>0%</PST>
+        </row>
+        <row>
+            <Abb>NS</Abb>
+            <Province>Nova Scotia</Province>
+            <GSTandHST>15%</GSTandHST>
+            <PST>0%</PST>
+        </row>
+        <row>
+            <Abb>NU</Abb>
+            <Province>Nunavut</Province>
+            <GSTandHST>5%</GSTandHST>
+            <PST>0%</PST>
+        </row>
+        <row>
+            <Abb>ON</Abb>
+            <Province>Ontario</Province>
+            <GSTandHST>13%</GSTandHST>
+            <PST>0%</PST>
+        </row>
+        <row>
+            <Abb>QC</Abb>
+            <Province>Quebec</Province>
+            <GSTandHST>5%</GSTandHST>
+            <PST>9.98%</PST>
+        </row>
+        <row>
+            <Abb>PE</Abb>
+            <Province>Prince Edward Island</Province>
+            <GSTandHST>15%</GSTandHST>
+            <PST>0%</PST>
+        </row>
+        <row>
+            <Abb>SK</Abb>
+            <Province>Saskatchewan</Province>
+            <GSTandHST>5%</GSTandHST>
+            <PST>6%</PST>
+        </row>
+        <row>
+            <Abb>YT</Abb>
+            <Province>Yukon</Province>
+            <GSTandHST>5%</GSTandHST>
+            <PST>0%</PST>
+        </row>
+    </array-array>
+</resources>

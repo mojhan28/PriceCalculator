@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">priceCalculator</string>
+    <string name="empty">""</string>
+    <string name="base">Base</string>
+    <string name="tip">Tip</string>
+    <string name="total">Total</string>
+    <string name="split">Split</string>
+    <string name="per_person">per person</string>
+    <string name="hintAmount">--</string>
+    <string name="amount">Amount</string>
+    <string name="taxLabel">Tax</string>
+    <string name="totalLabel">Total</string>
+    <string name="baseLabel">Base</string>
+    <string name="tipLabel">Tip</string>
+    <string name="_1">1</string>
+    <string name="footer">Made with ❤️ by Moji</string>
+    <string name="taxPercentLabel">Tax %</string>
+    <string name="or">or</string>
+    <string name="percentSymbol">%</string>
+    <string name="discountLabel">Discount</string>
+    <string name="tipAmountLabel">Tip amount</string>
+    <string name="people">people</string>
+    <string name="_2f">%.2f</string>
+
+</resources>
